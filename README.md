@@ -30,12 +30,13 @@ Make sure you have the following installed on your system:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/personal-finance-tracker.git
+   git clone  https://github.com/Payal-gurunani/Todo-Context-Api.git
+ 
    ```
    
 2. Navigate into the project directory:
    ```bash
-   cd personal-finance-tracker
+   cd Todo-Context-Api
    ```
 
 ### Install Dependencies
